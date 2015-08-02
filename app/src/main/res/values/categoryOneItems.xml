@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Singlish words & phrases  -->
+    <string-array name="categoryOneItems">
+        <item>alamak</item>
+        <item>bodoh</item>
+        <item>cheem</item>
+        <item>chiobu</item>
+        <item>lah</item>
+        <item>leh</item>
+        <item>lor</item>
+        <item>satki</item>
+        <item>sedap</item>
+        <item>shiok</item>
+        <item>siao</item>
+        <item>walao</item>
+        <item>zai</item>
+    </string-array>
+</resources>

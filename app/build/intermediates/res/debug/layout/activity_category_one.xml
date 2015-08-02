@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="confirmcanstudios.settlinginsingapore.CategoryOneActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ListView
+            android:id="@+id/listViewMain"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Quiz Yourself!" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Play a Game!" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Jiasheng/AndroidStudioProjects/SettlinginSingapore/app/src/main/res/layout/activity_category_one.xml -->

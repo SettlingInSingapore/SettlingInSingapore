@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Settling in Singapore</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_category_one">Abit The Singlish</string>
+</resources>

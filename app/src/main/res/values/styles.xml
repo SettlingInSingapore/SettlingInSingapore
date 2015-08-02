@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#ED2939</item>
+        <!-- colorPrimaryDark is used for the status bar, only works on Lollipop + devices -->
+        <item name="colorPrimaryDark">#BE212E</item>
+        <!-- colorAccent is used as the default value for colorControlActivated
+         which is used to tint widgets -->
+        <item name="colorAccent">#FF9933</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#ED2939</item>
+
+        <!-- You can also set colorControlNormal, colorControlActivated
+         colorControlHighlight & colorSwitchThumbNormal. -->
+    </style>
+
+    <style name="HeaderTextStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="HeaderTextStyle.Red">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="HeaderTextStyle.White">
+        <item name="android:textColor">#ED2939</item>
+    </style>
+
+    <style name="CategoryStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+
+    <style name="CategoryStyle.Red">
+        <item name="android:background">#ED2939</item>
+    </style>
+
+    <style name="CategoryStyle.White">
+        <item name="android:background">#FFFFFF</item>
+
+    </style>
+
+</resources>

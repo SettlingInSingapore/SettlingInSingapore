@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\classes-92bd284358e419d6d0fe55ac1d5163cc0e4671ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\classes-1dad5c6197b00cae0b25adc1790546827ca4c855.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-b3b82e18e905a379f83b73b11680205ef4842815.jar" />
+    </item>
+    <item
+        jar="G:\Programs (Non-System)\Misc\Android sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-65bf9d15a1ac65f3e39038e3ce40898a14120fb0.jar" />
+    </item>
+
+</items>
