@@ -8,7 +8,7 @@ The app is about Singaporean culture. We have subdivided the content encompassed
 
 ##Target Audience:
 ###**Target user**  	>Type of information they need & Value
-**Tourists	Insider** Tips for getting around Singapore
+**Tourists** Insider Tips for getting around Singapore
 
 **New immigrants**	Familiarisation with Singaporean culture & Singlish (slang)
 
