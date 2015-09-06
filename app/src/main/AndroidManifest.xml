@@ -17,12 +17,26 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CategoryOneActivity"
-            android:label="@string/title_activity_category_one"
+            android:name=".EntryActivity"
+            android:parentActivityName=".CategoryActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="confirmcanstudios.settlinginsingapore.CategoryActivity" />
+        </activity>
+        <activity
+            android:name=".CategoryActivity"
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="confirmcanstudios.settlinginsingapore.MainActivity" />
+        </activity>
+        <activity
+            android:name=".QuizActivity"
+            android:label="@string/title_activity_quiz"
+            android:parentActivityName=".CategoryActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="confirmcanstudios.settlinginsingapore.CategoryActivity" />
         </activity>
     </application>
 

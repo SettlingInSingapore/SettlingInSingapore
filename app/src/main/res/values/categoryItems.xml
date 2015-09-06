@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Singlish words & phrases  -->
+    <string-array name="categoryOneItems">
+        <item>Alamak</item>
+        <item>Bodoh</item>
+        <item>Cheem</item>
+        <item>Chiobu</item>
+        <item>Dun</item>
+        <item>Dunno</item>
+        <item>Lah</item>
+        <item>Leh</item>
+        <item>Lor</item>
+        <item>Meh</item>
+        <item>Mug</item>
+        <item>Satki</item>
+        <item>Sedap</item>
+        <item>Shiok</item>
+        <item>Siao</item>
+        <item>Walao</item>
+        <item>Zai</item>
+    </string-array>
+
+    <string-array name="categoryTwoItems">
+        <item>Ayam Penyet</item>
+        <item>Bak Chang</item>
+        <item>Bak Chor Mee</item>
+        <item>Bak Kwa</item>
+        <item>Bak Kut Teh</item>
+        <item>Ban Mian</item>
+        <item>Belacan</item>
+        <item>Black Pepper Crab</item>
+        <item>Cereal Prawns</item>
+        <item>Chai Tow Kway</item>
+        <item>Char Kway Teow</item>
+        <item>Chilli Crab</item>
+        <item>Chwee Kueh</item>
+        <item>Curry Puff</item>
+        <item>Dosa</item>
+        <item>Duck Rice</item>
+        <item>Fish Head Curry</item>
+        <item>Goreng Pisang</item>
+        <item>Har Cheong Gai</item>
+        <item>Hawker Centre</item>
+        <item>Hum Chim Peng</item>
+        <item>Kaya Toast</item>
+        <item>Keropok</item>
+        <item>Ketupat</item>
+        <item>Kopi Tiam</item>
+        <item>Kway Chap</item>
+        <item>Kueh Pie Tee</item>
+        <item>Laksa</item>
+        <item>Lontong</item>
+        <item>Mee Goreng</item>
+        <item>Min Chiang Kueh</item>
+        <item>Murtabak</item>
+        <item>Otah</item>
+        <item>Oyster Omelette</item>
+        <item>Pig Organ Soup</item>
+        <item>Popiah</item>
+        <item>Rojak</item>
+        <item>Roti Prata</item>
+        <item>Sambal</item>
+        <item>Sambal Stingray</item>
+        <item>Soon Kueh</item>
+        <item>Soto Ayam</item>
+        <item>Tandoori</item>
+        <item>Tauhu Goreng</item>
+        <item>Tutu Kueh</item>
+        <item>Vegetarian Beehoon</item>
+        <item>You Tiao</item>
+    </string-array>
+
+    <string-array name="categoryThreeItems">
+        <item>Bandung</item>
+        <item>Beer</item>
+        <item>Cheng Tng</item>
+        <item>Chin Chow</item>
+        <item>Dragonfruit</item>
+        <item>Durian</item>
+        <item>Green Bean Soup</item>
+        <item>Ice Kachang</item>
+        <item>Jackfruit</item>
+        <item>Kopi</item>
+        <item>Kueh Lapis</item>
+        <item>Kueh</item>
+        <item>Lemon Barley</item>
+        <item>Longan</item>
+        <item>Lychee</item>
+        <item>Mangosteen</item>
+        <item>Milo</item>
+        <item>Or Ni</item>
+        <item>Pineapple</item>
+        <item>Pulut Hitam</item>
+        <item>Rambutan</item>
+        <item>Singapore Sling</item>
+        <item>Sugar Cane Juice</item>
+        <item>Tau Suan</item>
+        <item>Teh</item>
+        <item>Teh Tarik</item>
+    </string-array>
+
+    <string-array name="categoryFourItems">
+        <item>Boh Liao</item>
+        <item>Chope</item>
+        <item>Kope</item>
+    </string-array>
+
+    <string-array name="categoryFiveItems">
+        <item>Day One</item>
+        <item>Day Two</item>
+        <item>Day Three</item>
+    </string-array>
+
+    <string-array name="categorySixItems">
+        <item>Chinatown</item>
+        <item>Clarke Quay</item>
+        <item>Esplanade</item>
+        <item>Gardens By The Bay</item>
+        <item>Jurong Bird Park</item>
+        <item>Kampong Glam</item>
+        <item>Little India</item>
+        <item>Mandai Zoo</item>
+        <item>Marina Bay Sands</item>
+        <item>Merlion</item>
+        <item>Sentosa</item>
+    </string-array>
+
+    <string-array name="categorySevenItems">
+        <item>Bus</item>
+        <item>MRT</item>
+        <item>Walk</item>
+    </string-array>
+
+    <string-array name="categoryEightItems">
+        <item>St. James Power Station</item>
+        <item>Zouk</item>
+    </string-array>
+
+</resources>
