@@ -24,11 +24,12 @@
 
         <LinearLayout
             style="@style/CategoryStyle.Red"
-            android:onClick="startCategoryOne">
+            android:id="@+id/categoryOne"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.Red"
-                android:text="@string/title_activity_category_one" />
+                android:text="@string/category1" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -39,11 +40,13 @@
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.Red">
+            style="@style/CategoryStyle.Red"
+            android:id="@+id/categoryTwo"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.Red"
-                android:text="Sedap Lah!" />
+                android:text="@string/category2" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -53,25 +56,29 @@
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.Red">
+            style="@style/CategoryStyle.Red"
+            android:id="@+id/categoryThree"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.Red"
-                android:text="Shiok Man!" />
+                android:text="@string/category3" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Similarly, wordart goes here. Links to drinks category."/>
+                android:text="Similarly, wordart goes here. Links to fruits, drinks and desserts category."/>
 
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.Red">
+            style="@style/CategoryStyle.Red"
+            android:id="@+id/categoryFour"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.Red"
-                android:text="Satki Singlish" />
+                android:text="@string/category4" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -89,56 +96,65 @@
         android:orientation="horizontal">
 
         <LinearLayout
-            style="@style/CategoryStyle.White">
+            style="@style/CategoryStyle.White"
+            android:id="@+id/categoryFive"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.White"
-                android:text="One Day in Singapore" />
+                android:text="@string/category5" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Test Wordart here. Meant to be a one/two day guide in Singapore."/>
+                android:text="One or two day guide in Singapore."/>
 
 
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.White">
+            style="@style/CategoryStyle.White"
+            android:id="@+id/categorySix"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.White"
-                android:text="Merlion you dunno?" />
+                android:text="@string/category6" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Similarly, wordart goes here. Links to Singaporean landmarks."/>
+                android:text="Singaporean landmarks."/>
 
 
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.White">
+            style="@style/CategoryStyle.White"
+            android:id="@+id/categorySeven"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.White"
-                android:text="BMW lor" />
+                android:text="@string/category7"
+                />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Similarly, wordart goes here. Links to transport."/>
+                android:text="Transport"/>
 
 
         </LinearLayout>
 
         <LinearLayout
-            style="@style/CategoryStyle.White">
+            style="@style/CategoryStyle.White"
+            android:id="@+id/categoryEight"
+            android:onClick="CategoryOnClick">
 
             <TextView
                 style="@style/HeaderTextStyle.White"
-                android:text="Tonight do what?" />
+                android:text="@string/category8" />
 
             <TextView
                 android:layout_width="wrap_content"

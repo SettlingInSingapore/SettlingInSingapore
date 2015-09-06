@@ -53,4 +53,20 @@
 
     </style>
 
+    <style name="EntryTitleStyle">
+        <item name="android:typeface">sans</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#ED2939</item>
+    </style>
+
+    <style name="EntryDescStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ED2939</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
 </resources>
