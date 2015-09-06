@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\classes-92bd284358e419d6d0fe55ac1d5163cc0e4671ad.jar" />
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\pre-dexed\debug\classes-78169ae29bca1ad8c83d4a7ee23ca1eae8015167.jar" />
     </item>
     <item
-        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\classes-1dad5c6197b00cae0b25adc1790546827ca4c855.jar" />
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-26d860f8fcf432b319804c7baa07d98852df621a.jar" />
     </item>
     <item
-        jar="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\Jiasheng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-b3b82e18e905a379f83b73b11680205ef4842815.jar" />
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-d6cafddda630be35319b2afdc213518453fd1123.jar" />
     </item>
     <item
-        jar="G:\Programs (Non-System)\Misc\Android sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\Jiasheng\AndroidStudioProjects\SettlinginSingapore\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-65bf9d15a1ac65f3e39038e3ce40898a14120fb0.jar" />
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Jiasheng\Documents\GitHub\SettlingInSingapore\app\build\intermediates\pre-dexed\debug\classes-ca83c71fc4e0b2f8c95c1d700d931106edb33017.jar" />
     </item>
 
 </items>
