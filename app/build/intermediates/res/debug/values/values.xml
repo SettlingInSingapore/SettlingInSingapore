@@ -360,6 +360,7 @@
     <string name="Bodoh">Bodoh is used to refer to someone dumb or forgetful. It is not
             extremely insulting, however.\nE.g. Ali called out to Xiao Ming, \'Oi, you forgot to
             bring your money today again ah?\'</string>
+    <string name="Error">Error 404: String not found.</string>
     <!-- From: file:/C:/Users/Jiasheng/Documents/GitHub/SettlingInSingapore/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>

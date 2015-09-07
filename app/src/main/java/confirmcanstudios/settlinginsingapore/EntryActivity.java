@@ -38,11 +38,24 @@ public class EntryActivity extends AppCompatActivity {
         String imageName = getIntent().getStringExtra("Entry").toLowerCase().replace(" ", "");
 
         //Gets the imageID based on the selected word/phrase
-        int dynamicImageID = getResources().getIdentifier(imageName , "drawable",
-                this.getPackageName());
+        int dynamicImageID;
+        if(getResources().getIdentifier(imageName , "drawable", this.getPackageName()) == 0){
+            dynamicImageID = getResources().getIdentifier("error" , "drawable", this.getPackageName());
+        }
+        else {
+            dynamicImageID = getResources().getIdentifier(imageName , "drawable", this.getPackageName());
+        }
 
-        int dynamicStringID = getResources().getIdentifier(getIntent().getStringExtra("Entry").replace(" ", ""), "string",
-                this.getPackageName());
+        int dynamicStringID;
+        if(getResources().getIdentifier(getIntent().getStringExtra("Entry").replace(" ", ""), "string",
+                this.getPackageName()) == 0){
+            dynamicStringID = getResources().getIdentifier("Error", "string",
+                    this.getPackageName());
+        }
+        else {
+            dynamicStringID = getResources().getIdentifier(getIntent().getStringExtra("Entry").replace(" ", ""), "string",
+                    this.getPackageName());
+         }
 
         ImageView EntryImage = (ImageView) findViewById(
                 R.id.EntryActivityImage);

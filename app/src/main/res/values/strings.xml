@@ -16,6 +16,9 @@
     <string name="category8">Tonight Do What?</string>
 
     //Descriptions of words and phrases
+        //Global
+        <string name="Error">Error 404: String not found.</string>
+
         //Category 1
         <string name="Alamak">Alamak is used when expressing realisation of forgetfulness.\nE.g.
             Xiao Ming exclaimed, \'Alamak! I forgot to bring my wallet today!\'</string>
